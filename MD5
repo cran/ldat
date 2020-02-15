@@ -1,4 +1,4 @@
-c3af1359c25556848591a53168b5df7b *DESCRIPTION
+242d75b2276642588e3f27c8d5bd33dd *DESCRIPTION
 cf1f4f73a1fe8535cf33994ab6d2ea32 *NAMESPACE
 01b58063e520425296f846c3ea020c97 *NEWS
 93a00eaca8a53f2fe6417f1fbb27e4a0 *R/RcppExports.R
@@ -13,7 +13,7 @@ fc608871d3ae84af07959b89d0810ed9 *R/dim_ldat.R
 c54d1a31451e684cc606db253b579d95 *R/elementwise.R
 ede401372acc87d94b9dc999ad56085b *R/elementwise_functions.R
 520919f32b080a5209d9c224fe11ca74 *R/generate.R
-e7d941fb036e17ca677bd522b8505faa *R/indexing.R
+e4b7db2e7ac6e8752727f7e48e02edba *R/indexing.R
 7868d42118940d5af1a5dd9bec299496 *R/init.R
 90b3155ffc100cd44ee56265bea89693 *R/ldat.R
 0cedcfa9a6af55586c3f904b68df2f4f *R/lget_ldat.R
@@ -39,7 +39,7 @@ aa618f255e884904a7166d6f9f0d70f1 *man/append.Rd
 162c78f4d0a2f521cc4fe2ac0ec86745 *man/duplicated.Rd
 fc59a2ddf710187ff474439b9897261a *man/elementwise.Rd
 71c2e9664b8240f5c5f859839b990a66 *man/generate.Rd
-78705dd472e337bd2e917874496995c1 *man/indexing.Rd
+be1bc7dc2d5d81018f677bc73ec6a3c7 *man/indexing.Rd
 b54e7ed33941ff663e88f768656c2220 *man/is.na.lvec.Rd
 4f0e42580235a78913c15ea61d0c17c6 *man/ldat.Rd
 30d0fa9f4adc06dd24424fd0b2586d69 *man/lget.ldat.Rd

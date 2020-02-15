@@ -1,7 +1,7 @@
 Package: ldat
 Title: Large Data Sets
-Version: 0.3.0
-Date: 2019-12-26
+Version: 0.3.2
+Date: 2020-02-14
 Author: Jan van der Laan
 Maintainer: Jan van der Laan <r@eoos.dds.nl>
 Description: Tools for working with vectors and data sets that are too large
@@ -20,6 +20,6 @@ Encoding: UTF-8
 LazyData: true
 RoxygenNote: 7.0.2
 NeedsCompilation: yes
-Packaged: 2020-01-10 16:24:10 UTC; eoos
+Packaged: 2020-02-14 21:25:53 UTC; eoos
 Repository: CRAN
-Date/Publication: 2020-01-11 00:50:25 UTC
+Date/Publication: 2020-02-15 21:20:08 UTC
